@@ -1,2 +1,3 @@
 # mycamera
-Stopped down version of Adafruit CircuitPython PyCamera
+Stripped down version of Adafruit CircuitPython PyCamera to allow for reconfiguring pins for breakout board on any MCU
+
